@@ -20,7 +20,7 @@ __pycache__/: Cached files for faster execution.
 Setup Instructions
 Clone the Repository:
 
-git clone https://github.com/YourUsername/Graph_Based_Stock_Market_Analysis_with_GANs.git
+git clone https://github.com/fengdan26/Graph_Based_Stock_Market_Analysis_with_GANs.git
 cd Graph_Based_Stock_Market_Analysis_with_GANs
 Install Dependencies: Install the required Python libraries using pip:
 
