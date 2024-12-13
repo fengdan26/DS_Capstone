@@ -41,12 +41,9 @@ Multiple Architectures: Comprehensive evaluation of CGAN, CGAN + LSTM, and GAN w
 Scalable: Supports both HPC environments and local execution.
 Results
 Our models demonstrate strong alignment with target stock trends, capturing both temporal dependencies and structural patterns in stock data. For detailed results and visual assessments, refer to the project's documentation.
-
 Authors
 Peiquan Feng: Local training and CGAN + LSTM development.
 Kaiwen Hu: HPC training and GAN with Numbers development.
-License
-This project is licensed under the MIT License.
 
 Acknowledgements
 We acknowledge the contributions of various open-source libraries and frameworks that made this project possible.
